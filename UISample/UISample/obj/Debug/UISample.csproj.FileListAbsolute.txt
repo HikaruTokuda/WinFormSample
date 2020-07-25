@@ -1,0 +1,11 @@
+C:\Study\UISample\UISample\UISample\bin\Debug\UISample.exe.config
+C:\Study\UISample\UISample\UISample\bin\Debug\UISample.exe
+C:\Study\UISample\UISample\UISample\bin\Debug\UISample.pdb
+C:\Study\UISample\UISample\UISample\obj\Debug\UISample.csprojAssemblyReference.cache
+C:\Study\UISample\UISample\UISample\obj\Debug\UISample.Form1.resources
+C:\Study\UISample\UISample\UISample\obj\Debug\UISample.Properties.Resources.resources
+C:\Study\UISample\UISample\UISample\obj\Debug\UISample.csproj.GenerateResource.cache
+C:\Study\UISample\UISample\UISample\obj\Debug\UISample.csproj.CoreCompileInputs.cache
+C:\Study\UISample\UISample\UISample\obj\Debug\UISample.exe
+C:\Study\UISample\UISample\UISample\obj\Debug\UISample.pdb
+C:\Study\UISample\UISample\UISample\obj\Debug\UISample.Form2.resources
